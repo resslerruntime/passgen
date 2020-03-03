@@ -2,6 +2,8 @@
 
 Generate a random password at the click of a button.
 
+![](passgen.gif)
+
 ### Release 1.0 
 
 This project was created in Python using the Django framework. The repo is functionally complete and may be added to in the future.
